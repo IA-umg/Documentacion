@@ -27,7 +27,7 @@ Koa es un sistema de IA conversacional desarrollado como proyecto universitario 
 
 ## Funcionalidades
 
-- Chat conversacional con IA (modelos Gemini y Grok)
+- Chat conversacional con IA (modelos Gemini y Groq)
 - Carga de documentos (`.pdf`, `.docx`, `.txt`, `.md`) para alimentar la base de conocimientos
 - Búsqueda semántica mediante embeddings y pgvector
 - Respuestas con citas y fuentes auditables
