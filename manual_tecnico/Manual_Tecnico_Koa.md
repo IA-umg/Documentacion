@@ -73,11 +73,6 @@ El uso de repositorios en plataformas como GitHub permite colaboración, control
 - Configuración del entorno
 - Despliegue básico
 
-**No incluye:**
-
-- Frontend (interfaz gráfica)
-- Infraestructura avanzada (Kubernetes, cloud completo)
-
 ---
 
 ## Reporte de Evaluación MVP - RAG Académico
